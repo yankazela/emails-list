@@ -31,4 +31,15 @@ This mini project implements an API used to initialize and load the email input 
     inputHandler.validEmails
   ```
 
+## How to run it
+
+1. Build:
+```cmd
+    npm run build
+```
+2. Run server:
+```cmd
+    npm run serve
+```
+
 MIT © 2021
